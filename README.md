@@ -32,13 +32,6 @@ Me gusta experimentar, equivocarme, corregir y mejorar continuamente.
 
 ---
 
-## 📬 Contáctame
-
-- 💼 GitHub: https://github.com/santiagopabonmolina
-- ✉️ Email: santy122324@gmai.com
-
----
-
 ## 🧰 Tecnologías y herramientas
 
 ### 👨🏻‍💻 Conozco
@@ -54,6 +47,11 @@ Me gusta experimentar, equivocarme, corregir y mejorar continuamente.
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+
+## 📬 Contáctame
+
+- 💼 GitHub: https://github.com/santiagopabonmolina
+- ✉️ Email: santy122324@gmai.com
 
 
 ⭐ Gracias por visitar mi perfil. ¡Siempre abierto a colaborar!
